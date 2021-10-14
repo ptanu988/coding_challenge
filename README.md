@@ -1,5 +1,12 @@
 ## Demo Challenge
 
+
+#### Project Setup
+1. Clone to local file system
+2. Open Eclipse, select open existing maven project, select the cloned folder
+3. Run as "TestNG" for "PizzaOrderTest.java" in package com.sample.test.demo.tests
+4. For running in Mac update config.properties and update chromedriver
+
 #### Instructions
 1. Complete the project setup as listed below
 2. Complete the Excerise
